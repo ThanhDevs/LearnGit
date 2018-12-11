@@ -1,9 +1,9 @@
 HTML5学习
 ========
 
-![IE11](/resource/ie11.png)
-![Chrome](/resource/chrome.png)
-![Firefox](/firefox.png)
+![IE11](resource/ie11.png)
+![Chrome](resource/chrome.png)
+![Firefox](firefox.png)
 ![Safari](resource/safari.png)
 ![iphone](resource/iphone.png)
 ![android](resource/android.png)
